@@ -34,19 +34,46 @@
 ## 目录结构
 
 ``` txt
-|-- Studyspace  
-    |-- .gitignore  
-    |-- LICENSE  
-    |-- README.md  
-    |-- 1.工作相关  
-    |-- 2.代码学习  
-    |-- 3.生产力工具  
-        |-- 3.1Markdown  
-        |   |-- 1.Vscode中Markdown环境配置  
-        |       |-- Vscode_Markdown配置说明.md  
-        |       |-- Vscode_Markdown配置说明.pdf  
-        |-- 3.2 Git  
-            |-- 1.Git常用指令  
-            |-- 2.Readme目录结构生成  
-                |-- Readme目录结构生成.md  
+|-- ENotebook  
+    |-- .gitignore
+    |-- LICENSE
+    |-- README.md
+    |-- 1.工作相关
+    |-- 2.代码学习
+    |   |-- 2.1CPP
+    |   |   |-- 1.Exception的设计
+    |   |   |   |-- Exception的设计.md
+    |   |   |-- 2.静态库和动态库
+    |   |   |   |-- 静态库和动态库的实现.md
+    |   |   |-- 3.API设计
+    |   |       |-- API代码规范.md
+    |   |       |-- API设计指南.md
+    |   |-- 2.2GTest
+    |   |   |-- 1.GTest编译说明
+    |   |   |   |-- GTest编译说明.md
+    |   |   |-- 2.GTest使用指南
+    |   |       |-- GTest使用指南.md
+    |   |-- 2.3调试工具
+    |   |   |-- 1.Valgrind交叉编译
+    |   |   |   |-- Valgrind交叉编译.md
+    |   |   |-- 2.GDB调试环境搭建
+    |   |       |-- GDB调试环境搭建.md
+    |   |-- 2.6 Linux系统
+    |   |   |-- 1.Mcheck进行malloc内存调试
+    |   |       |-- Mcheck进行malloc内存调试.md
+    |   |-- 2.8 编译工具
+    |       |-- 1.Clang使用说明
+    |       |-- 3. libc等交叉编译基础库分析
+    |       |   |-- 交叉编译基础库介绍.md
+    |       |-- 4.Docker交叉编译环境搭建
+    |           |-- Docker交叉编译环境搭建.md
+    |-- 3.生产力工具
+        |-- 3.1Markdown
+        |   |-- 1.Vscode中Markdown环境配置
+        |       |-- Vscode_Markdown配置说明.md
+        |       |-- Vscode_Markdown配置说明.pdf
+        |-- 3.2 Git
+            |-- 1.Git常用指令
+            |-- 2.Readme目录结构生成
+                |-- Readme目录结构生成.md
 ```
